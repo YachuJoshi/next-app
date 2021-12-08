@@ -1,0 +1,13 @@
+.Nav {
+  background-color: #111111;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.NavList {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  margin: 0;
+}

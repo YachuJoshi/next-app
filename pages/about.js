@@ -3,7 +3,7 @@ import Head from "next/head";
 import { Layout } from "../components";
 import styles from "../styles/Home.module.css";
 
-export default function Home() {
+export default function About() {
   return (
     <div className={styles.container}>
       <Head>
@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <Layout className={styles.main}>
-        <h1 className={styles.title}>Welcome To Home!</h1>
+        <h1 className={styles.title}>Welcome To About!</h1>
       </Layout>
     </div>
   );

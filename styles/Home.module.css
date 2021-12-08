@@ -45,6 +45,10 @@
   font-size: 4rem;
 }
 
+.title {
+  color: royalblue;
+}
+
 .title,
 .description {
   text-align: center;
